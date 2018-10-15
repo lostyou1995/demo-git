@@ -1,4 +1,4 @@
-function Cat() {
-    this.stomach = [];
+function Cat(test) {
+    this.stomach = [test];
 }
 module.exports = Cat;
